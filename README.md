@@ -1,4 +1,4 @@
-# Dog-Breed-Classifier
+# 🦴🦴 Dog-Breed-Classifier 🦴🦴
 Red neuronal recurrente LSTM para discriminar noticias falsa a partir de la composición y estructura de su texto.
 
 ## Dogs dataset 
