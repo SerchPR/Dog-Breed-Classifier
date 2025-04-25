@@ -15,8 +15,8 @@ Por motivos de almacenamiento disponible en GitHub reduje la base de datos a sol
 - Lhasa
 
 
-La base de datos descargada de Kaggle cuenta con 2 archivos separados:
-- dogs.csv
+La base de datos descargada de Kaggle cuenta con 2 partes principales:
+- dogs.csv - Etiquetas y rutas de las imágenes.
 - 3 carpetas con imágenes ya clasificadas de validación, entrenamiento y prueba.
 
 En el archivo "DogsBreed.ipynb" se desarrolla en python:
