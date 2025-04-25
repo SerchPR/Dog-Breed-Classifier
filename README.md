@@ -1,7 +1,7 @@
-# 🦴🦴 Dog-Breed-Classifier 🦴🦴
+# 🦴🐾 Dog-Breed-Classifier 🐾🦴
 Red neuronal recurrente LSTM para discriminar noticias falsa a partir de la composición y estructura de su texto.
 
-## Dogs dataset 
+## Dogs dataset 🐕
 https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set/data
 
 *-Licenced : CC0: Public Domain*
