@@ -3,6 +3,7 @@ Red neuronal recurrente LSTM para discriminar noticias falsa a partir de la comp
 
 ## Dogs dataset 
 https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set/data
+
 *-Licenced : CC0: Public Domain*
 
 ## Resumen del proyecto
